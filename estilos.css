@@ -1,0 +1,29 @@
+#paineis-sobre{
+	margin-top: 20px;
+
+}
+ul {
+	text-align: center;
+	width: 60%;
+	background: #84e;
+	position: absolute;
+	top: 0;
+}
+ul li {
+	display: inline-block;
+}
+ul li a {
+	display: inline-block;
+	padding: 10px 20px;
+	margin: 15px 5px;
+	color: white;
+	font-size: 1.2em;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: monospace;
+}
+
+ul li a:hover {
+	background: rgba(0,0,0,.2);
+	border-radius: 4px;
+}

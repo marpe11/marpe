@@ -1,0 +1,32 @@
+#principal{
+    padding-top: 50px;
+    
+    };
+#menu{
+        align-content: center;
+    }
+div#cabecalho{
+        background-image: linear-gradient(to left, purple , black);
+    }
+#minhafoto{
+        margin-top: 10px;
+    }
+    
+.btn btn-danger btn-lg{
+        vertical-align: right;
+    
+    }
+.quero{
+             text-align: right;
+             background-image: linear-gradient(to left, purple , black);
+             padding-bottom: 30px;
+             padding-right: 50px;
+             
+    }
+div#xpcontainer{
+        padding-top: 40px;
+    }
+
+{
+    padding-bottom: 100px;
+}
